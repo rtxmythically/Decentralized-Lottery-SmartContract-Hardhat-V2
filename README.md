@@ -63,8 +63,4 @@
 
 ---
 
-## 🚀 部署與使用
 
-### 1️⃣ 安裝依賴
-```bash
-npm install @openzeppelin/contracts
